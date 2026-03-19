@@ -47,7 +47,7 @@ Currently expanding my skills in modern frontend frameworks, containerization, a
 |---|---|---|---|
 | 🌐 **Portfolio** | Personal portfolio showcasing my work and experience | SvelteKit · Tailwind CSS | [lowie-dichoson.vercel.app](https://lowie-dichoson.vercel.app) |
 | 💻 **Dave Delivers** | Terminal-style interactive portfolio | SvelteKit · Tailwind CSS | [dave-delivers.vercel.app](https://dave-delivers.vercel.app) |
-| 🔗 **URL Shortener** | Full-stack URL shortener with click tracking and dashboard | Node.js · PostgreSQL · SvelteKit · Docker | — |
+| 🔗 **Philequity ClientEase** | Client-facing system for opening and updating investor accounts of Philequity Management, Inc. | Angular · .NET Web API · PostgreSQL · Docker | [www.philequity.net/portal/](https://www.philequity.net/portal/) |
 
 ---
 
